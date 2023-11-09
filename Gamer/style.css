@@ -1,0 +1,91 @@
+@media (min-width:600px){
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+}
+body {
+    background: rgb(77,77,77);
+    background: linear-gradient(0deg, rgba(77,77,77,1) 0%, rgba(255,255,255,1) 100%);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium
+}
+img{
+    margin: 10px;
+    padding: 10px;
+}
+
+h1{
+    color: black
+}
+h2 {
+    color: white;
+}
+.p{
+    padding: 3px 10px;
+    border: black 5px solid;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+header {
+    border: black 5px hidden;
+    background-image: url(R.jpg);
+
+}
+.edm {
+    padding: 3px 10px;
+    border: black 5px solid;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.rock {
+    padding: 3px 10px;
+    border: black 5px solid;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.jazz {
+    padding: 3px 10px;
+    border: black 5px solid;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.pop {
+    padding: 3px 10px;
+    border: black 5px solid;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.county {
+    padding: 3px 10px;
+    border: black 5px solid;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.metal {
+    padding: 3px 10px;
+    border: black 5px solid;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.rap {
+    padding: 3px 10px;
+    border: black 5px solid;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.electro {
+    padding: 3px 10px;
+    border: black 5px solid;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.rnb {
+    padding: 3px 10px;
+    border: black 5px solid;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+
